@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0490e2a-8ea9-429b-a8b2-01d23f28647c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets_questions/explore_enron_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets_questions/explore_enron_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
